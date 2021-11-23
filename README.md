@@ -1,4 +1,4 @@
-A simple project to help with understanding JS DOM Manipulation and usage of methods.
+A simple project to help with understanding HTML structuring, JS DOM Manipulation and usage of methods.
 
 The calculator has an input of loan ammount, interest percentage and years to repay the loan.
 
